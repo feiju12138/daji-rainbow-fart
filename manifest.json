@@ -1,0 +1,17 @@
+{
+  "name": "daji-voice",
+  "version": "1.0.0",
+  "avatar": "daji-rainbow-fart/avatar",
+  "description": "王者荣耀-妲己 语音包",
+  "author": "FeiJu",
+  "contributes": [
+    {
+      "keywords": [
+        "abstract", "assert", "boolean", "break", "byte", "case", "catch", "char", "class", "const", "continue", "default", "do", "double", "else", "enum", "extends", "final", "finally", "float", "for", "goto", "if", "implements", "import", "instanceof", "int", "interface", "long", "native", "new", "package", "private", "protected", "public", "return", "strictfp", "short", "static", "super", "switch", "synchronized", "this", "throw", "throws", "transient", "try", "void", "volatile", "while"
+      ],
+      "voices": [
+        "voices/01请尽情吩咐妲己主人.mp3", "voices/02妲己一直爱主人因为被设定成这样.mp3", "voices/03主人的敌人就是妲己的敌人.mp3", "voices/04尾巴不只能用来挠痒痒哦.mp3", "voices/05你的主人制造你时好像有偷工减料耶.mp3", "voices/06努力做主人喜欢的事.mp3", "voices/07让妲己看看你的心.mp3", "voices/08没有心就不会受伤.mp3", "voices/09羁绊是什么意思.mp3", "voices/10为什么会痛苦一直微笑就好了.mp3", "voices/11主人的命令是绝对的.mp3", "voices/12妲己陪你玩.mp3", "voices/13来和妲己玩耍吧.mp3", "voices/14主人讨厌你呢.mp3"
+      ]
+    }
+  ]
+}
