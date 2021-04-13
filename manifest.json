@@ -1,9 +1,12 @@
 {
   "name": "daji-voice",
   "version": "1.0.0",
-  "avatar": "daji-rainbow-fart/avatar",
+  "avatar": "daji-rainbow-fart/daji.jpg",
   "description": "王者荣耀-妲己 语音包",
   "author": "FeiJu",
+  "gender": "female",
+  "locale": "zh",
+  "languages": ["java", "javascript"],
   "contributes": [
     {
       "keywords": [
